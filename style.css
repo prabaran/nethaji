@@ -48,7 +48,7 @@ ul.list-inline > li:last-child > a {
     margin-right: 0;
 }
 .bannerImg {
-    background: url("../img/banner.jpg") no-repeat center / cover;
+    background: url("https://prabaran.github.io/nethaji/img/banner.jpg") no-repeat center / cover;
     width     : 100%;
     height    : 100%;
 }
@@ -84,19 +84,19 @@ ul.list-inline > li:last-child > a {
     background-position: center;
     background-size    : cover;
 }
-.container > div:first-child{ background-image: url("../img/pasumpon-muthuramalingathevar.jpg") }
-.container > div:nth-child(2){ background-image: url("../img/thilakar.jpg") }
-.container > div:nth-child(3){ background-image: url("../img/vo-chidambaram-pillai.jpg") }
-.container > div:nth-child(4){ background-image: url("../img/swami-vivekanandar.jpg") }
-.container > div:nth-child(5){ background-image: url("../img/nethaji-subas-chandra-bose.jpg") }
-.container > div:nth-child(6){ background-image: url("../img/cr-das.jpg") }
-.container > div:nth-child(7){ background-image: url("../img/pulithevar.jpg") }
-.container > div:nth-child(8){ background-image: url("../img/bharathiyar.jpg") }
-.container > div:nth-child(9){ background-image: url("../img/bhagat-singh.jpg") }
-.container > div:nth-child(10){ background-image: url("../img/muthuramalinga-thevar-andaman-island.jpg") }
-.container > div:nth-child(11){ background-image: url("../img/vvs-iyer.jpg") }
-.container > div:nth-child(12){ background-image: url("../img/pasumpon-thevar.jpg") }
-.container > div:nth-child(13){ background-image: url("../img/vanchi-iyar.jpg") }
+.container > div:first-child{ background-image: url("https://prabaran.github.io/nethaji/img/pasumpon-muthuramalingathevar.jpg") }
+.container > div:nth-child(2){ background-image: url("https://prabaran.github.io/nethaji/img/thilakar.jpg") }
+.container > div:nth-child(3){ background-image: url("https://prabaran.github.io/nethaji/img/vo-chidambaram-pillai.jpg") }
+.container > div:nth-child(4){ background-image: url("https://prabaran.github.io/nethaji/img/swami-vivekanandar.jpg") }
+.container > div:nth-child(5){ background-image: url("https://prabaran.github.io/nethaji/img/nethaji-subas-chandra-bose.jpg") }
+.container > div:nth-child(6){ background-image: url("https://prabaran.github.io/nethaji/img/cr-das.jpg") }
+.container > div:nth-child(7){ background-image: url("https://prabaran.github.io/nethaji/img/pulithevar.jpg") }
+.container > div:nth-child(8){ background-image: url("https://prabaran.github.io/nethaji/img/bharathiyar.jpg") }
+.container > div:nth-child(9){ background-image: url("https://prabaran.github.io/nethaji/img/bhagat-singh.jpg") }
+.container > div:nth-child(10){ background-image: url("https://prabaran.github.io/nethaji/img/muthuramalinga-thevar-andaman-island.jpg") }
+.container > div:nth-child(11){ background-image: url("https://prabaran.github.io/nethaji/img/vvs-iyer.jpg") }
+.container > div:nth-child(12){ background-image: url("https://prabaran.github.io/nethaji/img/pasumpon-thevar.jpg") }
+.container > div:nth-child(13){ background-image: url("https://prabaran.github.io/nethaji/img/vanchi-iyar.jpg") }
 
 
 .container > div {
